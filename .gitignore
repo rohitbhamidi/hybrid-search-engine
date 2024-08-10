@@ -1,0 +1,7 @@
+.pytest_cache
+.venv
+__pycache__
+docker-compose.yml
+Dockerfile
+implementation.md
+progress-log.md

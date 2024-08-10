@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  hybrid-search-engine:
+    build: .
+    container_name: hybrid-search-engine
+    volumes:
+      - .:/hybrid-search-engine
+    ports:
+      - "5000:5000"
