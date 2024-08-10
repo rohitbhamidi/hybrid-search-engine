@@ -5,3 +5,4 @@ docker-compose.yml
 Dockerfile
 implementation.md
 progress-log.md
+testing.ipynb
